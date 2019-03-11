@@ -1,12 +1,12 @@
-6e69d66b3754018fed093df312c813dc *DESCRIPTION
+c64f0605cc132350c7d653b8d69be667 *DESCRIPTION
 5e2f197a3c2fdc4ee025a191d458ffe9 *NAMESPACE
 ce5ec6d982f99a2a0fa1bd093b08e06a *R/AllClasses.R
 e560a23a4a5a3fd3b487716d9aba0d01 *R/AllGenerics.R
 25367755120c61604e862fd23b9a70eb *R/fGarchDistr.R
 c9779641d69ea47043a899296b428083 *inst/CITATION
-7aff195c6035aaa4babaf73ffecdebcc *inst/NEWS
+629f09ba7375e32678d5a8aff08ab581 *inst/NEWS
 95ac200e78a8bdbf205c48ded9fab38b *inst/TOBEDONE
-92a658210fb188d2d88ea99fff131e9c *man/0distrRmetrics-package.Rd
+a8c766cadabcb8d61cb07455fd392f6a *man/0distrRmetrics-package.Rd
 e2cb8154147cfd60b7c9829440b8a449 *man/SNorm-class.Rd
 b509a017570b9993c078252f17a00740 *man/SNorm.Rd
 44441d1122979ce39c3c7022105774a5 *man/SNormParameter-class.Rd
